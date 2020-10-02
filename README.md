@@ -9,6 +9,6 @@ https://www.spritle.com/blogs/2019/12/20/how-to-train-your-tiny-yolov3-model-in-
 
 Usage :
 
-python detect_license.py --image test.jpg
+python detect_voter.py --image test.jpg
 
-python detect_license.py --video test.mp4
+python detect_voter.py --video test.mp4
